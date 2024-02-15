@@ -39,7 +39,7 @@ export const experiencesData = [
     location: "Rajasthan Technical University",
     description: "Achieved graduation from Rajasthan Technical University, gaining a comprehensive technical education and laying the foundation for a successful career.",
     icon: React.createElement(LuGraduationCap),
-    date: 2023,
+    date: "2023",
   },
   {
     title: "Associate Software Engineer",
